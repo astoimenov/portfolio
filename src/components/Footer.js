@@ -7,6 +7,6 @@ const Content = styled.p`
     text-align: center;
 `;
 
-const Footer = () => <Content>&copy; 2018 by AStoimenov</Content>;
+const Footer = () => <Content>&copy; {new Date().getFullYear()} by AStoimenov</Content>;
 
 export default Footer;
