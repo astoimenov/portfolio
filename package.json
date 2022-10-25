@@ -1,7 +1,7 @@
 {
   "name": "astoimenov-portfolio",
   "description": "AStoimenov portfolio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Alex Stoimenov <me@astoimenov.eu>",
   "dependencies": {
     "gatsby": "^1.9.253",
